@@ -1,0 +1,16 @@
+{
+  "name": "cambio",
+  "version": "1.0.0",
+  "description": "Memorization card game with objective of having lowest count.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cambio",
+    "card",
+    "game"
+  ],
+  "author": "Nitin Puri",
+  "license": "ISC"
+}
